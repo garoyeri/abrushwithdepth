@@ -16,7 +16,9 @@
 title: A Brush with Depth
 email: garo.yeriazarian@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Just a writing blog to brain dump my ... brain.
+  Just a writing notebook.  I love to write and I wanted a place to dump my brain
+  of ideas and also get regular practice writing whatever.  This is really for myself
+  and if someone finds an interesting story or something amusing, then that's a bonus!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abrushwithdepth.com" # the base hostname & protocol for your site
 github_username:    garoyeri
